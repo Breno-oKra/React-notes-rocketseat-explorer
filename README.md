@@ -1,3 +1,38 @@
+<h1 align="center"> Project React Notes of the explorer rocketseat
+</h1>
+<div display="flex" align="center">
+    <img width="400px" alt="" src="./src//assets//project/singUp.png" />
+    <img width="400px" alt="" src="./src//assets//project/singIn.png" />
+</div>
+
+
+
+## 🚀 Techniques
+
+this project was developed with technology:
+
+- REACTjs
+- Vite
+
+## learning main
+
+- react routes
+- components react
+- props
+- style components
+
+## about
+project developed on explorer of rocketseat
+
+## 💻 Photos Project 
+
+<div align="center">
+    <h3>Home</h3>
+    <img width="400px" alt="" src="./src//assets//project/home.png" />
+    <h3>Note</h3>
+    <img width="400px" alt="" src="./src//assets//project/note.png" />
+</div>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
